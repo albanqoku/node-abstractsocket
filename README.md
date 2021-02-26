@@ -1,3 +1,4 @@
+
 # node-abstractsocket
 
 Because I like my sockets like my Picasso paintings: abstract.
@@ -92,8 +93,4 @@ Run tests with `npm test`.
 
 ## Thanks
 
-I borrowed massive amounts of inspiration/code from node-unix-dgram by @bnoordhuis :-)
-
-@mmalecki taught me how to inherit like a pro.
-@randunel refactored it heavily in v2.
 
